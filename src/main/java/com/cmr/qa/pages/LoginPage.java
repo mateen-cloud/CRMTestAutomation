@@ -65,4 +65,11 @@ public void verify() {
 	System.out.println("veryfy");
 	
 }
+
+public void verifyMask() {
+	
+	System.out.println("veryfy");
+	
+}
+
 }
