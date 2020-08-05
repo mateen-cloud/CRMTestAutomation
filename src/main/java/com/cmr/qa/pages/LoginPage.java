@@ -59,4 +59,10 @@ public HomePage Login(String un,String pd) {
 	return new HomePage();
 	
 }
+
+public void verify() {
+	
+	System.out.println("veryfy");
+	
+}
 }
